@@ -7,4 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MainVishu32/DSA-LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+## Array
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/MainVishu32/DSA-LeetCode/tree/master/0039-combination-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/MainVishu32/DSA-LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
