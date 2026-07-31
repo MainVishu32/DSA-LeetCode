@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/MainVishu32/DSA-LeetCode/tree/master/0060-permutation-sequence) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MainVishu32/DSA-LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Array
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/MainVishu32/DSA-LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MainVishu32/DSA-LeetCode/tree/master/0090-subsets-ii) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/MainVishu32/DSA-LeetCode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
